@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x42B925b896E5ED791C68f1B7b58612BEf12C19Fb",
+  "SCAN_LINK": "https://etherscan.io/address/0x42B925b896E5ED791C68f1B7b58612BEf12C19Fb",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "CryptoLabs",
+  "SYMBOL": "CryptoLab",
+  "MAX_SUPPLY": 9100,
+  "WEI_COST": 3000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 21000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/CryptoLabs",
+  "SHOW_BACKGROUND": false
+}
